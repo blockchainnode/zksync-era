@@ -19,7 +19,7 @@ zksync_config = { path = "../config", version = "1.0" }
 zksync_state = {path = "../state", version = "1.0" }
 zksync_storage = {path = "../storage", version = "1.0" }
 
-zk_evm = {git = "https://github.com/matter-labs/era-zk_evm.git", branch = "v1.3.2"}
+zk_evm = {git = "https://github.com/blockchainnode/era-zk_evm.git", branch = "fix"}
 
 zksync_contracts = { path = "../contracts" }
 
